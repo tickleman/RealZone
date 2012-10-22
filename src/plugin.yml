@@ -1,0 +1,11 @@
+name: RealZone
+main: fr.crafter.tickleman.realzone.Plugin
+version: 0.1
+website: http://plugins.crafter.fr/tickleman/RealZone/
+author: tickleman
+depend: [RealPlugin]
+commands:
+  realzone:
+    aliases: [rz]
+    description: RealZone zone management system
+    usage: /rz help
